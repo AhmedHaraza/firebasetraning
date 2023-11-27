@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383487606697",
+    "project_id": "fluttertraningfirebase",
+    "storage_bucket": "fluttertraningfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383487606697:android:745ff02c3a877011800eb8",
+        "android_client_info": {
+          "package_name": "com.example.firebasetraning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTKIecSpvKFKT_m3JjOO2DKRlODcJzg3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
